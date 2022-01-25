@@ -1,0 +1,15 @@
+form{
+    display: flex;
+    align-items: center;
+}
+
+form div{
+    display: flex;
+    align-items: center;
+}
+input{
+    margin: 0px 20px;
+}
+[v-cloak]{
+    display: none;
+}
